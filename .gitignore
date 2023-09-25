@@ -1,0 +1,7 @@
+.idea/
+
+workspace/.ipynb_checkpoints/
+workspace/data
+
+!workspace/data/.example.csv
+!workspace/example.ipynb
